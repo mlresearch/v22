@@ -1,0 +1,28 @@
+---
+title: 'CorrLog: Correlated Logistic Models for Joint Prediction of Multiple Labels'
+abstract: In this paper, we present a simple but effective method for multi-label
+  classification (MLC), termed Correlated Logistic Models (Corrlog), which extends
+  multiple Independent Logistic Regressions (ILRs) by modeling the pairwise correlation
+  between labels. Algorithmically, we propose an efficient method for learning parameters
+  of Corrlog, which is based on regularized maximum pseudo-likelihood estimation and
+  has a linear computational complexity with respect to the number of labels. Theoretically,
+  we show that Corrlog enjoys a satisfying generalization bound which is independent
+  of the number of labels. The effectiveness of Corrlog on modeling label correlations
+  is illustrated by a toy example, and further experiments on real data show that
+  Corrlog achieves competitive performance compared with popular MLC algorithms.
+pdf: "./bian12/bian12.pdf"
+layout: inproceedings
+key: bian12
+month: 0
+firstpage: 109
+lastpage: 117
+origpdf: http://jmlr.org/proceedings/papers/v22/bian12/bian12.pdf
+sections: 
+authors:
+- given: Wei
+  family: Bian
+- given: Bo
+  family: Xie
+- given: Dacheng
+  family: Tao
+---

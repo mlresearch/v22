@@ -1,0 +1,42 @@
+---
+title: History-alignment models for bias-aware prediction of virological response
+  to HIV combination therapy
+abstract: 'The relevant HIV data sets used for predicting outcomes of HIV combination
+  therapies suffer from several problems: uneven therapy representation, different
+  treatment backgrounds of the samples and uneven representation with respect to the
+  level of therapy experience. Also, they comprise only viral strain(s) that can be
+  detected in the patients'' blood serum. The approach presented in this paper tackles
+  these issues by considering not only the most recent therapies but also the different
+  treatment backgrounds of the samples making up the clinical data sets when predicting
+  the outcomes of HIV therapies. For this purpose, we introduce a similarity measure
+  for sequences of therapies and use it for training separate linear models for predicting
+  therapy outcome for each target sample. Compared to the most commonly used approach
+  that encodes all available treatment information only by specific input features
+  our approach has the advantage of delivering significantly more accurate predictions
+  for therapy-experienced patients and for rare therapies. Additionally, the sample-specific
+  models are more interpretable which is very important in medical applications.'
+pdf: "./bogojeska12/bogojeska12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/bogojeska12/bogojeska12Supple.pdf
+layout: inproceedings
+key: bogojeska12
+month: 0
+firstpage: 118
+lastpage: 126
+origpdf: http://jmlr.org/proceedings/papers/v22/bogojeska12/bogojeska12.pdf
+sections: 
+authors:
+- given: Jasmina
+  family: Bogojeska
+- given: Daniel
+  family: Stockel
+- given: Maurizio
+  family: Zazzi
+- given: Rolf
+  family: Kaiser
+- given: Francesca
+  family: Incardona
+- given: Michal
+  family: Rosen-Zvi
+- given: Thomas
+  family: Lengauer
+---

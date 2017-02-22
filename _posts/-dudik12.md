@@ -1,0 +1,27 @@
+---
+title: Lifted coordinate descent for learning with trace-norm regularization
+abstract: We consider the minimization of a smooth loss with trace-norm regularization,
+  which is a natural objective in multi-class and multi-task learning. Even though
+  the problem is convex, existing approaches rely on optimizing a non-convex variational
+  bound, which is not guaranteed to converge, or repeatedly perform singular-value
+  decomposition, which prevents scaling beyond moderate matrix sizes. We lift the
+  non-smooth convex problem into an infinitely dimensional smooth problem and apply
+  coordinate descent to solve it. We prove that our approach converges to the optimum,
+  and is competitive or outperforms state of the art.
+pdf: "./dudik12/dudik12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/dudik12/dudik12Supple.pdf
+layout: inproceedings
+key: dudik12
+month: 0
+firstpage: 327
+lastpage: 336
+origpdf: http://jmlr.org/proceedings/papers/v22/dudik12/dudik12.pdf
+sections: 
+authors:
+- given: Miroslav
+  family: Dudik
+- given: Zaid
+  family: Harchaoui
+- given: Jerome
+  family: Malick
+---

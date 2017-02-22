@@ -1,0 +1,28 @@
+---
+title: Information Theoretic Model Validation for Spectral Clustering
+abstract: 'Model validation constitutes a fundamental step in data clustering. The
+  central question is: Which cluster model and how many clusters are most appropriate
+  for a certain application? In this study, we introduce a method for the validation
+  of spectral clustering based upon approximation set coding. In particular, we compare
+  correlation and pairwise clustering to analyze the correlations of temporal gene
+  expression profiles. To evaluate and select clustering models, we calculate their
+  reliable informativeness. Experimental results in the context of gene expression
+  analysis show that pairwise clustering yields superior amounts of reliable information.
+  The analysis results are consistent with the Bayesian Information Criterion (BIC),
+  and exhibit higher generality than BIC.'
+pdf: "./haghir12/haghir12.pdf"
+layout: inproceedings
+key: haghir12
+month: 0
+firstpage: 495
+lastpage: 503
+origpdf: http://jmlr.org/proceedings/papers/v22/haghir12/haghir12.pdf
+sections: 
+authors:
+- given: Morteza Haghir
+  family: Chehreghani
+- given: Alberto Giovanni
+  family: Busetto
+- given: Joachim M.
+  family: Buhmann
+---

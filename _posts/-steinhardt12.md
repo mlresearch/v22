@@ -1,0 +1,27 @@
+---
+title: Flexible Martingale Priors for Deep Hierarchies
+abstract: When building priors over trees for Bayesian hierarchical models, there
+  is a tension between maintaining desirable theoretical properties such as infinite
+  exchangeability and important practical properties such as the ability to increase
+  the depth of the tree to accommodate new data. We resolve this tension by presenting
+  a family of infinitely exchangeable priors over discrete tree structures that allows
+  the depth of the tree to grow with the data, and then showing that our family contains
+  all hierarchical models with certain mild symmetry properties. We also show that
+  deep hierarchical models are in general intimately tied to a process called a martingale,
+  and use Doob's martingale convergence theorem to demonstrate some unexpected properties
+  of deep hierarchies.
+pdf: "./steinhardt12/steinhardt12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/steinhardt12/steinhardt12Supple.zip
+layout: inproceedings
+key: steinhardt12
+month: 0
+firstpage: 1108
+lastpage: 1116
+origpdf: http://jmlr.org/proceedings/papers/v22/steinhardt12/steinhardt12.pdf
+sections: 
+authors:
+- given: Jacob
+  family: Steinhardt
+- given: Zoubin
+  family: Ghahramani
+---

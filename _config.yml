@@ -1,0 +1,40 @@
+# Site settings
+# Auto generated from v22.bib
+---
+booktitle: Proceedings of the Fifteenth International Conference on Artificial Intelligence
+  and Statistics
+publisher: JMLR Workshop and Conference Proceedings
+logoright: AISTATS12_logo.gif
+volume: 22
+address: La Palma, Canary Islands
+month: 0
+year: '2012'
+shortname: AISTATS 2012
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+key: LawrenceAISTATS2012
+abstract: 
+origpdf: 
+pdf: "./LawrenceAISTATS2012/LawrenceAISTATS2012.pdf"
+editors:
+- given: Neil D.
+  family: Lawrence
+- given: Mark
+  family: Girolami
+title: Proceedings of the Fifteenth International Conference on Artificial Intelligence
+  and Statistics
+conference: Proceedings of the Fifteenth International Conference on Artificial Intelligence
+  and Statistics
+email: ''
+description: Proceedings of the Fifteenth International Conference on Artificial Intelligence
+  and Statistics, La Palma, Canary Islands
+url: http://proceedings.mlr.press
+baseurl: "/v22"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"

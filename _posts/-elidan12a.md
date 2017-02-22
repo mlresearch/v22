@@ -1,0 +1,26 @@
+---
+title: Copula Network Classifiers (CNCs)
+abstract: The task of classification is of paramount importance and extensive research
+  has been aimed at developing general purpose classifiers that can be used effectively
+  in a variety of  domains. Network-based classifiers, such as the tree augmented
+  naive Bayes model, are  appealing since they are easily interpretable, can naturally
+  handle missing data, and are often quite effective. Yet, for complex domains with
+  continuous explanatory variables, practical performance is often sub-optimal. To
+  overcome this limitation, we introduce Copula Network Classifiers (CNCs), a model
+  that combines the flexibility of a graph based representation with the modeling
+  power of copulas. As we  demonstrate on ten varied continuous real-life datasets,
+  CNCs offer better overall performance than linear and non-linear standard generative
+  models, as well as discriminative RBF and polynomial kernel SVMs. In addition, since
+  no parameter tuning is required, CNCs can be trained dramatically faster than SVMs.
+pdf: "./elidan12a/elidan12a.pdf"
+layout: inproceedings
+key: elidan12a
+month: 0
+firstpage: 346
+lastpage: 354
+origpdf: http://jmlr.org/proceedings/papers/v22/elidan12a/elidan12a.pdf
+sections: 
+authors:
+- given: Gal
+  family: Elidan
+---

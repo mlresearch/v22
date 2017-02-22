@@ -1,0 +1,32 @@
+---
+title: Marginal Regression For Multitask Learning
+abstract: 'Variable selection is an important practical problem that arises in   analysis
+  of many high-dimensional datasets. Convex optimization   procedures, that arise
+  from relaxing the NP-hard subset selection   procedure, e.g., the Lasso or Dantzig
+  selector, have become the   focus of intense theoretical investigations. Although
+  many efficient   algorithms exist that solve these problems, finding a solution
+  when   the number of variables is large, e.g., several hundreds of   thousands in
+  problems arising in genome-wide association analysis,   is still computationally
+  challenging. A practical solution for these   high-dimensional problems is the marginal
+  regression, where the   output is regressed on each variable separately. We investigate   theoretical
+  properties of the marginal regression in a multitask   framework. Our contribution
+  include: i) sharp analysis for the   marginal regression in a single task setting
+  with random design, ii)   sufficient conditions for the multitask screening to select
+  the   relevant variables, iii) a lower bound on the Hamming distance   convergence
+  for multitask variable selection problems. A simulation   study further demonstrates
+  the performance of the marginal   regression.'
+pdf: "./kolar12/kolar12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/kolar12/kolar12Supple.pdf
+layout: inproceedings
+key: kolar12
+month: 0
+firstpage: 647
+lastpage: 655
+origpdf: http://jmlr.org/proceedings/papers/v22/kolar12/kolar12.pdf
+sections: 
+authors:
+- given: Mladen
+  family: Kolar
+- given: Han
+  family: Liu
+---

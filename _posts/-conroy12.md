@@ -1,0 +1,29 @@
+---
+title: Fast, Exact Model Selection and Permutation Testing for l2-Regularized Logistic
+  Regression
+abstract: Regularized logistic regression is a standard classification method used
+  in statistics and machine learning. Unlike regularized least squares problems such
+  as ridge regression, the parameter estimates cannot be computed in closed-form and
+  instead must be estimated using an iterative technique. This paper addresses the
+  computational problem of regularized logistic regression that is commonly encountered
+  in model selection and classifier statistical significance testing, in which a large
+  number of related logistic regression problems must be solved for. Our proposed
+  approach solves the problems simultaneously through an iterative technique, which
+  also garners computational efficiencies by leveraging the redundancies across the
+  related problems. We demonstrate analytically that our method provides a substantial
+  complexity reduction, which is further validated by our results on real-world datasets.
+pdf: "./conroy12/conroy12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/conroy12/conroy12Supple.pdf
+layout: inproceedings
+key: conroy12
+month: 0
+firstpage: 246
+lastpage: 254
+origpdf: http://jmlr.org/proceedings/papers/v22/conroy12/conroy12.pdf
+sections: 
+authors:
+- given: Bryan
+  family: Conroy
+- given: Paul
+  family: Sajda
+---

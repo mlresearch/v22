@@ -1,0 +1,35 @@
+---
+title: Efficient Distributed Linear Classification Algorithms via the Alternating
+  Direction Method of Multipliers
+abstract: Linear classification has demonstrated success in many areas of applications.
+  Modern algorithms for linear classification can train reasonably good models while
+  going through the data in only tens of rounds. However, large data often does not
+  fit in the memory of a single machine, which makes the bottleneck in large-scale
+  learning the disk I/O, not the CPU. Following this observation, Yu et al. (2010)
+  made significant progress in reducing disk usage, and their algorithms now outperform
+  LIBLINEAR. In this paper, rather than optimizing algorithms on a single machine,
+  we propose and implement distributed algorithms that achieve parallel disk loading
+  and access the disk only once. Our large-scale learning algorithms are based on
+  the framework of alternating direction methods of multipliers. The framework derives
+  a subproblem that remains to be solved efficiently for which we propose using dual
+  coordinate descent. Our experimental evaluations on large datasets demonstrate that
+  the proposed algorithms achieve significant speedup over the classifier proposed
+  by Yu et al. running on a single machine. Our algorithms are faster than existing
+  distributed solvers, such as Zinkevich et al. (2010)'s parallel stochastic gradient
+  descent and Vowpal Wabbit.
+pdf: "./zhang12a/zhang12a.pdf"
+layout: inproceedings
+key: zhang12a
+month: 0
+firstpage: 1398
+lastpage: 1406
+origpdf: http://jmlr.org/proceedings/papers/v22/zhang12a/zhang12a.pdf
+sections: 
+authors:
+- given: Caoxie
+  family: Zhang
+- given: Honglak
+  family: Lee
+- given: Kang
+  family: Shin
+---

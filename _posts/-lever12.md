@@ -1,0 +1,27 @@
+---
+title: Data dependent kernels in nearly-linear time
+abstract: We propose a method to efficiently construct data dependent kernels which
+  can make use of large quantities of (unlabeled) data. Our construction makes an
+  approximation in the standard construction of semi-supervised kernels in Sindhwani
+  et al. (2005). In typical cases these kernels can be computed in nearly-linear time
+  (in the amount of data), improving on the cubic time of the standard construction,
+  enabling large scale semi-supervised learning in a variety of contexts. The methods
+  are validated on semi-supervised and unsupervised problems on data sets containing
+  upto 64,000 sample points.
+pdf: "./lever12/lever12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/lever12/lever12Supple.pdf
+layout: inproceedings
+key: lever12
+month: 0
+firstpage: 685
+lastpage: 693
+origpdf: http://jmlr.org/proceedings/papers/v22/lever12/lever12.pdf
+sections: 
+authors:
+- given: Guy
+  family: Lever
+- given: Tom
+  family: Diethe
+- given: John
+  family: Shawe-Taylor
+---

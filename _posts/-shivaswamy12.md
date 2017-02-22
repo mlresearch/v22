@@ -1,0 +1,25 @@
+---
+title: Multi-armed Bandit Problems with History
+abstract: In this paper we consider the stochastic multi-armed bandit problem. However,
+  unlike in the conventional version of this problem, we do not assume that the algorithm
+  starts from scratch. Many applications offer observations of (some of) the arms
+  even before the algorithm starts.  We propose three novel multi-armed bandit algorithms
+  that can exploit this data. An upper bound on the regret is derived in each case.
+  The results show that a logarithmic amount of historic data  can reduce  regret
+  from logarithmic to constant. The effectiveness of the proposed algorithms  are
+  demonstrated on a large-scale malicious URL detection problem.
+pdf: "./shivaswamy12/shivaswamy12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/shivaswamy12/shivaswamy12Supple.pdf
+layout: inproceedings
+key: shivaswamy12
+month: 0
+firstpage: 1046
+lastpage: 1054
+origpdf: http://jmlr.org/proceedings/papers/v22/shivaswamy12/shivaswamy12.pdf
+sections: 
+authors:
+- given: Pannagadatta
+  family: Shivaswamy
+- given: Thorsten
+  family: Joachims
+---

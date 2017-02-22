@@ -1,0 +1,37 @@
+---
+title: A Two-Graph Guided Multi-task Lasso Approach for eQTL Mapping
+abstract: Learning a small number of genetic variants associated with multiple complex
+  genetic traits is of practical importance and remains challenging due to the high
+  dimensional nature of data. In this paper, we proposed a two-graph guided multi-task
+  Lasso to address this issue with an emphasis on estimating subnetwork-to-subnetwork
+  associations in expression quantitative trait loci (eQTL) mapping. The proposed
+  model can learn such subnetwork-to-subnetwork associations and therefore can be
+  seen as a generalization of several state-of-the-art multi-task feature selection
+  methods. Additionally, this model has a nice property of allowing flexible structured
+  sparsity on both feature and label domains. Simulation study shows the improved
+  performance of our model and a human eQTL data set is analyzed to further demonstrate
+  the applications of the model.
+pdf: "./chen12b/chen12b.pdf"
+layout: inproceedings
+key: chen12b
+month: 0
+firstpage: 208
+lastpage: 217
+origpdf: http://jmlr.org/proceedings/papers/v22/chen12b/chen12b.pdf
+sections: 
+authors:
+- given: Xiaohui
+  family: Chen
+- given: Xinghua
+  family: Shi
+- given: Xing
+  family: Xu
+- given: Zhiyong
+  family: Wang
+- given: Ryan
+  family: Mills
+- given: Charles
+  family: Lee
+- given: Jinbo
+  family: Xu
+---

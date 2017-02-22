@@ -1,0 +1,27 @@
+---
+title: Bandit Theory meets Compressed Sensing for high dimensional Stochastic Linear
+  Bandit
+abstract: "We consider a linear stochastic bandit problem where the dimension K of
+  the unknown parameter \theta is larger than the sampling budget n. Since usual linear
+  bandit algorithms have a regret in O(K\\sqrt{n}), it is in general impossible to
+  obtain a sub-linear regret without further assumption. In this paper we make the
+  assumption that \theta is S-sparse, i.e. has at most S-non-zero components, and
+  that the space of arms is the unit ball for the ||.||_2 norm. We combine ideas from
+  Compressed Sensing and Bandit Theory to derive an algorithm with a regret bound
+  in O(S\\sqrt{n}). We detail an application to the problem of optimizing a function
+  that depends on many variables but among which only a small number of them (initially
+  unknown) are relevant."
+pdf: "./carpentier12/carpentier12.pdf"
+layout: inproceedings
+key: carpentier12
+month: 0
+firstpage: 190
+lastpage: 198
+origpdf: http://jmlr.org/proceedings/papers/v22/carpentier12/carpentier12.pdf
+sections: 
+authors:
+- given: Alexandra
+  family: Carpentier
+- given: Remi
+  family: Munos
+---
