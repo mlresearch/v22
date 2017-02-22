@@ -1,0 +1,30 @@
+---
+title: Local Anomaly Detection
+abstract: Anomalies with spatial and temporal stamps arise in a number of applications
+  including communication networks, traffic monitoring and video analysis. In these
+  applications anomalies are temporally or spatially localized but otherwise unknown.
+  We propose a novel graph-based statistical notion that unifies the idea of temporal
+  and spatial locality. This notion lends itself to an elegant characterization of
+  optimal decision rules and in turn suggests corresponding empirical rules based
+  on local nearest neighbor distances. We compute a single composite score for the
+  entire spatio-temporal data sample based on the local neighborhood distances. We
+  declare data samples as containing local anomalies based on the composite score.
+  We show that such rules not only asymptotically guarantee desired false alarm control
+  but are also asymptotically optimal. We also show that our composite scoring scheme
+  overcomes the inherent resolution issues of alternative multi-comparison approaches
+  that are based on fusing the outcomes of location-by-location comparisons. We then
+  verify our algorithms on synthetic and real data sets.
+pdf: "./saligrama12/saligrama12.pdf"
+layout: inproceedings
+key: saligrama12
+month: 0
+firstpage: 969
+lastpage: 983
+origpdf: http://jmlr.org/proceedings/papers/v22/saligrama12/saligrama12.pdf
+sections: 
+authors:
+- given: Venkatesh
+  family: Saligrama
+- given: Manqi
+  family: Zhao
+---

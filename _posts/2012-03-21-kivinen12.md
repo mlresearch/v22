@@ -1,0 +1,28 @@
+---
+title: Multiple Texture Boltzmann Machines
+abstract: We assess the generative power of the mPoT-model of [10] with tiled-convolutional
+  weight sharing as a model for visual textures by specifically training on this task,
+  evaluating model performance on texture synthesis and inpainting tasks using quantitative
+  metrics. We also analyze the relative importance of the mean and covariance parts
+  of the mPoT model by comparing its performance to those of its subcomponents, tiled-convolutional
+  versions of the PoT/FoE and Gaussian-Bernoulli restricted Boltzmann machine (GB-RBM).
+  Our results suggest that while state-of-the-art or better performance can be achieved
+  using the mPoT, similar performance can be achieved with the mean-only model. We
+  then develop a model for multiple textures based on the GB-RBM, using a shared set
+  of weights but texture-specific hidden unit biases. We show comparable performance
+  of the multiple texture model to  individually trained texture models.
+pdf: "./kivinen12/kivinen12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/kivinen12/kivinen12Supple.pdf
+layout: inproceedings
+key: kivinen12
+month: 0
+firstpage: 638
+lastpage: 646
+origpdf: http://jmlr.org/proceedings/papers/v22/kivinen12/kivinen12.pdf
+sections: 
+authors:
+- given: Jyri
+  family: Kivinen
+- given: Christopher
+  family: Williams
+---

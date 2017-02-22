@@ -1,0 +1,34 @@
+---
+title: Minimax rates for homology inference
+abstract: Often, high dimensional data lie close to a low-dimensional submanifold
+  and it is of interest to understand the geometry of these submanifolds. The homology
+  groups of a (sub)manifold are important topological invariants that provide an algebraic
+  summary of the manifold. These groups contain rich topological information, for
+  instance, about the connected components, holes, tunnels and (sometimes) the dimension
+  of the manifold. In this paper, we consider the statistical problem of estimating
+  the homology of a manifold from noisy samples under several different noise models.
+  We derive upper and lower bounds on the minimax risk for this problem. Our upper
+  bounds are based on estimators which are constructed from a union of balls of appropriate
+  radius around carefully selected sample points. In each case we establish complementary
+  lower bounds using Le Cam's lemma.
+pdf: "./balakrishnan12a/balakrishnan12a.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/balakrishnan12a/balakrishnan12aSupple.pdf
+layout: inproceedings
+key: balakrishnan12a
+month: 0
+firstpage: 64
+lastpage: 72
+origpdf: http://jmlr.org/proceedings/papers/v22/balakrishnan12a/balakrishnan12a.pdf
+sections: 
+authors:
+- given: Sivaraman
+  family: Balakrishnan
+- given: Alesandro
+  family: Rinaldo
+- given: Don
+  family: Sheehy
+- given: Aarti
+  family: Singh
+- given: Larry
+  family: Wasserman
+---

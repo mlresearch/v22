@@ -1,0 +1,28 @@
+---
+title: Statistical Optimization in High Dimensions
+abstract: We consider optimization problems whose parameters are known only approximately,
+  based on a noisy sample. Of particular interest is the high-dimensional regime,
+  where the number of samples is roughly equal to the dimensionality of the problem,
+  and the noise magnitude may greatly exceed the magnitude of the signal itself. This
+  setup falls far outside the traditional scope of Robust  and Stochastic optimization.
+  We propose three algorithms to address this setting, combining ideas from statistics,
+  machine learning, and robust optimization. In the important case where noise artificially
+  increases the dimensionality of the parameters, we show that combining robust optimization
+  and dimensionality reduction can result in high-quality solutions at greatly reduced
+  computational cost.
+pdf: "./xu12a/xu12a.pdf"
+layout: inproceedings
+key: xu12a
+month: 0
+firstpage: 1332
+lastpage: 1340
+origpdf: http://jmlr.org/proceedings/papers/v22/xu12a/xu12a.pdf
+sections: 
+authors:
+- given: Huan
+  family: Xu
+- given: Constantine
+  family: Caramanis
+- given: Shie
+  family: Mannor
+---

@@ -1,0 +1,26 @@
+---
+title: Deep Boltzmann Machines as Feed-Forward Hierarchies
+abstract: The deep Boltzmann machine is a powerful model that extracts the hierarchical
+  structure of observed data. While inference is typically slow due to its undirected
+  nature, we argue that the emerging feature hierarchy is still explicit enough to
+  be traversed in a feed-forward fashion. The claim is corroborated by training a
+  set of deep neural networks on real data and measuring the evolution of the representation
+  layer after layer. The analysis reveals that the deep Boltzmann machine produces
+  a feed-forward hierarchy of increasingly invariant representations that clearly
+  surpasses the layer-wise approach.
+pdf: "./montavon12/montavon12.pdf"
+layout: inproceedings
+key: montavon12
+month: 0
+firstpage: 798
+lastpage: 804
+origpdf: http://jmlr.org/proceedings/papers/v22/montavon12/montavon12.pdf
+sections: 
+authors:
+- given: Gregoire
+  family: Montavon
+- given: Mikio
+  family: Braun
+- given: Klaus-Robert
+  family: Muller
+---

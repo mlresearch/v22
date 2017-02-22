@@ -1,0 +1,32 @@
+---
+title: Testing for Membership to the IFRA and the NBU Classes of Distributions
+abstract: This paper provides test procedures to determine whether the probability
+  distribution underlying a set of non-negative valued samples belongs to the Increasing
+  Failure Rate Average (IFRA) class or the New Better than Used (NBU) class. Membership
+  of a distribution to one of these classes is known to have implications which are
+  important in reliability, queuing theory, game theory and other disciplines. Our
+  proposed test is based on the Kolmogorov-Smirnov distance between an empirical cumulative
+  hazard function and its best approximation from the class of distributions constituting
+  the null hypothesis. It turns out that the least favorable distribution, which produces
+  the largest probability of Type I error of each of the tests, is the exponential
+  distribution. This fact is used to produce an appropriate cut-off or p-value. Monte
+  Carlo simulations are conducted to check small sample size (i.e., significance)
+  and power of the test. Usefulness of the test is illustrated through the analysis
+  of a set of monthly family expenditure data collected by the National Sample Survey
+  Organization of the Government of India.
+pdf: "./srivastava12/srivastava12.pdf"
+layout: inproceedings
+key: srivastava12
+month: 0
+firstpage: 1099
+lastpage: 1107
+origpdf: http://jmlr.org/proceedings/papers/v22/srivastava12/srivastava12.pdf
+sections: 
+authors:
+- given: Radhendushka
+  family: Srivastava
+- given: Ping
+  family: Li
+- given: Debasis
+  family: Sengupta
+---

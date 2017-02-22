@@ -1,0 +1,31 @@
+---
+title: Universal Measurement Bounds for Structured Sparse Signal Recovery
+abstract: Standard compressive sensing results state that to exactly recover an s
+  sparse signal in Rp, one requires O(s log p) measurements. While this bound is extremely
+  useful in practice, often real world signals are not only sparse, but also exhibit
+  structure in the sparsity pattern. We focus on group-structured patterns in this
+  paper. Under this model, groups of signal coefficients are active (or inactive)
+  together. The groups are prede- fined, but the particular set of groups that are
+  active (i.e., in the signal support) must be learned from measurements. We show
+  that exploiting knowledge of groups can further reduce the number of measurements
+  required for exact signal recovery, and derive universal bounds for the number of
+  measurements needed. The bound is universal in the sense that it only depends on
+  the number of groups under consideration, and not the particulars of the groups
+  (e.g., compositions, sizes, ex- tents, overlaps, etc.). Experiments show that our
+  result holds for a variety of overlapping group configurations.
+pdf: "./rao12/rao12.pdf"
+layout: inproceedings
+key: rao12
+month: 0
+firstpage: 942
+lastpage: 950
+origpdf: http://jmlr.org/proceedings/papers/v22/rao12/rao12.pdf
+sections: 
+authors:
+- given: Nikhil
+  family: Rao
+- given: Ben
+  family: Recht
+- given: Robert
+  family: Nowak
+---

@@ -1,0 +1,24 @@
+---
+title: On a Connection between Maximum Variance Unfolding, Shortest Path Problems
+  and IsoMap
+abstract: We present an equivalent formulation of the Maximum Variance Unfolding (MVU)
+  problem in terms of distance matrices. This yields a novel interpretation of the
+  MVU problem as a regularized version of the shortest path problem on a graph. This
+  interpretation enables us to establish an asymptotic convergence result for the
+  case that the underlying data are drawn from a Riemannian manifold which is isometric
+  to a convex subset of Euclidean space.
+pdf: "./paprotny12/paprotny12.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/paprotny12/paprotny12Supple.pdf
+layout: inproceedings
+key: paprotny12
+month: 0
+firstpage: 859
+lastpage: 867
+origpdf: http://jmlr.org/proceedings/papers/v22/paprotny12/paprotny12.pdf
+sections: 
+authors:
+- given: Alexander
+  family: Paprotny
+- given: Jochen
+  family: Garcke
+---

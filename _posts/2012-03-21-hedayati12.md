@@ -1,0 +1,27 @@
+---
+title: Exchangeability Characterizes Optimality of Sequential Normalized Maximum Likelihood
+  and Bayesian Prediction with Jeffreys Prior
+abstract: 'We study online prediction of individual sequences under logarithmic loss
+  with parametric constant experts. The optimal strategy, normalized maximum likelihood
+  (NML), is computationally demanding and requires the length of the game to be known.
+  We consider two simpler strategies: sequential normalized maximum likelihood (SNML),
+  which computes the NML forecasts at each round as if it were the last round, and
+  Bayesian prediction. Under appropriate conditions, both are known to achieve near-optimal
+  regret.  In this paper, we investigate when these strategies are optimal. We show
+  that SNML is optimal iff the joint distribution on sequences defined by SNML is
+  exchangeable. In the case of exponential families, this is equivalent to the optimality
+  of any Bayesian prediction strategy, and the optimal prior is Jeffreys prior.'
+pdf: "./hedayati12/hedayati12.pdf"
+layout: inproceedings
+key: hedayati12
+month: 0
+firstpage: 504
+lastpage: 510
+origpdf: http://jmlr.org/proceedings/papers/v22/hedayati12/hedayati12.pdf
+sections: 
+authors:
+- given: Fares
+  family: Hedayati
+- given: Peter
+  family: Bartlett
+---

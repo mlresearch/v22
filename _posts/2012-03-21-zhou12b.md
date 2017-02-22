@@ -1,0 +1,33 @@
+---
+title: Online Incremental Feature Learning with Denoising Autoencoders
+abstract: 'While determining model complexity is an important problem in machine learning,
+  many feature learning algorithms rely on cross-validation to choose an optimal number
+  of features, which is usually infeasible for online learning from a massive stream
+  of data. In this paper, we propose an incremental feature learning algorithm to
+  determine the optimal model complexity for large-scale, online datasets based on
+  the denoising autoencoder. This algorithm is composed of two processes: adding features
+  and merging features. Specifically, it adds new features to minimize the objective
+  function''s residual and merges similar features to obtain a compact feature representation
+  and prevent over-fitting. Our experiments show that the model quickly converges
+  to the optimal number of features in a large-scale online setting, and outperforms
+  the (non-incremental) denoising autoencoder, as well as deep belief networks and
+  stacked denoising autoencoders for classification tasks. Further, the algorithm
+  is particularly effective in recognizing new patterns when the data distribution
+  changes over time in the massive online data stream.'
+pdf: "./zhou12b/zhou12b.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/zhou12b/zhou12bSupple.pdf
+layout: inproceedings
+key: zhou12b
+month: 0
+firstpage: 1453
+lastpage: 1461
+origpdf: http://jmlr.org/proceedings/papers/v22/zhou12b/zhou12b.pdf
+sections: 
+authors:
+- given: Guanyu
+  family: Zhou
+- given: Kihyuk
+  family: Sohn
+- given: Honglak
+  family: Lee
+---
