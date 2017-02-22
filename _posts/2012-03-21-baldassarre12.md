@@ -16,13 +16,14 @@ abstract: We study a generalized framework for structured sparsity. It extends t
   problem.
 pdf: "./baldassarre12/baldassarre12.pdf"
 layout: inproceedings
-key: baldassarre12
+id: baldassarre12
 month: 0
 firstpage: 82
 lastpage: 90
+page: 82-90
 origpdf: http://jmlr.org/proceedings/papers/v22/baldassarre12/baldassarre12.pdf
 sections: 
-authors:
+author:
 - given: Luca
   family: Baldassarre
 - given: Jean
@@ -31,4 +32,6 @@ authors:
   family: Argyriou
 - given: Massimiliano
   family: Pontil
+date: '2012-03-21 00:01:22'
+publisher: PMLR
 ---

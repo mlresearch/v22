@@ -7,15 +7,18 @@ abstract: We propose a simple and efficient modification of the popular DBSCAN c
 pdf: "./sriperumbudur12/sriperumbudur12.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/sriperumbudur12/sriperumbudur12Supple.pdf
 layout: inproceedings
-key: sriperumbudur12
+id: sriperumbudur12
 month: 0
 firstpage: 1090
 lastpage: 1098
+page: 1090-1098
 origpdf: http://jmlr.org/proceedings/papers/v22/sriperumbudur12/sriperumbudur12.pdf
 sections: 
-authors:
+author:
 - given: Bharath
   family: Sriperumbudur
 - given: Ingo
   family: Steinwart
+date: '2012-03-21 00:18:10'
+publisher: PMLR
 ---

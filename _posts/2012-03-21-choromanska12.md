@@ -18,15 +18,18 @@ abstract: Approximating the k-means clustering objective with an online learning
 pdf: "./choromanska12/choromanska12.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/choromanska12/choromanska12Supple.pdf
 layout: inproceedings
-key: choromanska12
+id: choromanska12
 month: 0
 firstpage: 227
 lastpage: 235
+page: 227-235
 origpdf: http://jmlr.org/proceedings/papers/v22/choromanska12/choromanska12.pdf
 sections: 
-authors:
+author:
 - given: Anna
   family: Choromanska
 - given: Claire
   family: Monteleoni
+date: '2012-03-21 00:03:47'
+publisher: PMLR
 ---

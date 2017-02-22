@@ -19,17 +19,20 @@ abstract: We introduce a novel technique, which we call  online-to-confidence-se
 pdf: "./abbasi-yadkori12/abbasi-yadkori12.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/abbasi-yadkori12/abbasi-yadkori12Supple.pdf
 layout: inproceedings
-key: abbasi-yadkori12
+id: abbasi-yadkori12
 month: 0
 firstpage: 1
 lastpage: 9
+page: 1-9
 origpdf: http://jmlr.org/proceedings/papers/v22/abbasi-yadkori12/abbasi-yadkori12.pdf
 sections: 
-authors:
+author:
 - given: Yasin
   family: Abbasi-Yadkori
 - given: David
   family: Pal
 - given: Csaba
   family: Szepesvari
+date: '2012-03-21 00:00:01'
+publisher: PMLR
 ---

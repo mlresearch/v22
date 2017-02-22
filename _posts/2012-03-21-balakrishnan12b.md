@@ -21,15 +21,18 @@ abstract: Patient-specific algorithms to detect adverse clinical events during l
   orders of magnitude fewer labeled examples for training.
 pdf: "./balakrishnan12b/balakrishnan12b.pdf"
 layout: inproceedings
-key: balakrishnan12b
+id: balakrishnan12b
 month: 0
 firstpage: 73
 lastpage: 81
+page: 73-81
 origpdf: http://jmlr.org/proceedings/papers/v22/balakrishnan12b/balakrishnan12b.pdf
 sections: 
-authors:
+author:
 - given: Guha
   family: Balakrishnan
 - given: Zeeshan
   family: Syed
+date: '2012-03-21 00:01:13'
+publisher: PMLR
 ---

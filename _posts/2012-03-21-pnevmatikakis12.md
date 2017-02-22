@@ -17,15 +17,18 @@ abstract: We present an algorithm for fast posterior inference in penalized high
 pdf: "./pnevmatikakis12/pnevmatikakis12.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/pnevmatikakis12/pnevmatikakis12Supple.pdf
 layout: inproceedings
-key: pnevmatikakis12
+id: pnevmatikakis12
 month: 0
 firstpage: 895
 lastpage: 904
+page: 895-904
 origpdf: http://jmlr.org/proceedings/papers/v22/pnevmatikakis12/pnevmatikakis12.pdf
 sections: 
-authors:
+author:
 - given: Eftychios
   family: Pnevmatikakis
 - given: Liam
   family: Paninski
+date: '2012-03-21 00:14:55'
+publisher: PMLR
 ---

@@ -14,13 +14,14 @@ abstract: Often, high dimensional data lie close to a low-dimensional submanifol
 pdf: "./balakrishnan12a/balakrishnan12a.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/balakrishnan12a/balakrishnan12aSupple.pdf
 layout: inproceedings
-key: balakrishnan12a
+id: balakrishnan12a
 month: 0
 firstpage: 64
 lastpage: 72
+page: 64-72
 origpdf: http://jmlr.org/proceedings/papers/v22/balakrishnan12a/balakrishnan12a.pdf
 sections: 
-authors:
+author:
 - given: Sivaraman
   family: Balakrishnan
 - given: Alesandro
@@ -31,4 +32,6 @@ authors:
   family: Singh
 - given: Larry
   family: Wasserman
+date: '2012-03-21 00:01:04'
+publisher: PMLR
 ---

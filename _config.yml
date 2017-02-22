@@ -19,11 +19,11 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: LawrenceAISTATS2012
+id: LawrenceAISTATS2012
 abstract: 
 origpdf: 
 pdf: "./LawrenceAISTATS2012/LawrenceAISTATS2012.pdf"
-editors:
+editor:
 - given: Neil D.
   family: Lawrence
 - given: Mark

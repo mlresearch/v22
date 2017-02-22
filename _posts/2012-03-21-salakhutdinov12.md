@@ -15,17 +15,20 @@ abstract: We study the prevalent problem when a test distribution differs from t
   greedy procedure.
 pdf: "./salakhutdinov12/salakhutdinov12.pdf"
 layout: inproceedings
-key: salakhutdinov12
+id: salakhutdinov12
 month: 0
 firstpage: 960
 lastpage: 968
+page: 960-968
 origpdf: http://jmlr.org/proceedings/papers/v22/salakhutdinov12/salakhutdinov12.pdf
 sections: 
-authors:
+author:
 - given: Ruslan
   family: Salakhutdinov
 - given: Sham
   family: Kakade
 - given: Dean
   family: Foster
+date: '2012-03-21 00:16:00'
+publisher: PMLR
 ---
