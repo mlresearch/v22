@@ -15,7 +15,7 @@ abstract: Approximating the k-means clustering objective with an online learning
   cost on the entire data stream seen so far, even though the algorithm is online.
   Our algorithm’s empirical performance tracks that of the best clustering algorithm
   in its expert set.
-pdf: http://proceedings.pmlr.press/choromanska12/choromanska12.pdf
+pdf: http://jmlr.org/proceedings/papers/v22/choromanska12/choromanska12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/choromanska12/choromanska12Supple.pdf
 layout: inproceedings
 id: choromanska12
@@ -23,13 +23,13 @@ month: 0
 firstpage: 227
 lastpage: 235
 page: 227-235
-origpdf: http://jmlr.org/proceedings/papers/v22/choromanska12/choromanska12.pdf
 sections: 
 author:
 - given: Anna
   family: Choromanska
 - given: Claire
   family: Monteleoni
+reponame: v22
 date: 2012-03-21
 address: La Palma, Canary Islands
 publisher: PMLR

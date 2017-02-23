@@ -12,7 +12,7 @@ abstract: In many recent applications, data is plentiful. By now, we have a rath
   open question is whether the tradeoff can be shown for more natural learning problems.
   We spell out several interesting candidates of natural learning problems for which
   we conjecture that there is a tradeoff between computational and sample complexity.
-pdf: http://proceedings.pmlr.press/shalev-shwartz12/shalev-shwartz12.pdf
+pdf: http://jmlr.org/proceedings/papers/v22/shalev-shwartz12/shalev-shwartz12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/shalev-shwartz12/shalev-shwartz12Supple.pdf
 layout: inproceedings
 id: shalev-shwartz12
@@ -20,7 +20,6 @@ month: 0
 firstpage: 1019
 lastpage: 1027
 page: 1019-1027
-origpdf: http://jmlr.org/proceedings/papers/v22/shalev-shwartz12/shalev-shwartz12.pdf
 sections: 
 author:
 - given: Shai
@@ -29,6 +28,7 @@ author:
   family: Shamir
 - given: Eran
   family: Tromer
+reponame: v22
 date: 2012-03-21
 address: La Palma, Canary Islands
 publisher: PMLR

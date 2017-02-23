@@ -13,14 +13,13 @@ abstract: We study the prevalent problem when a test distribution differs from t
   T-statistics. Our experiments validate this theory showing that our T-statistic
   based greedy feature selection is more robust at avoiding overfitting than the classical
   greedy procedure.
-pdf: http://proceedings.pmlr.press/salakhutdinov12/salakhutdinov12.pdf
+pdf: http://jmlr.org/proceedings/papers/v22/salakhutdinov12/salakhutdinov12.pdf
 layout: inproceedings
 id: salakhutdinov12
 month: 0
 firstpage: 960
 lastpage: 968
 page: 960-968
-origpdf: http://jmlr.org/proceedings/papers/v22/salakhutdinov12/salakhutdinov12.pdf
 sections: 
 author:
 - given: Ruslan
@@ -29,6 +28,7 @@ author:
   family: Kakade
 - given: Dean
   family: Foster
+reponame: v22
 date: 2012-03-21
 address: La Palma, Canary Islands
 publisher: PMLR
