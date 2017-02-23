@@ -34,6 +34,7 @@ author:
 - given: Csaba
   family: Szepesvari
 date: 2012-03-21
+address: La Palma, Canary Islands
 publisher: PMLR
 container-title: Proceedings of the Fifteenth International Conference on Artificial
   Intelligence and Statistics
