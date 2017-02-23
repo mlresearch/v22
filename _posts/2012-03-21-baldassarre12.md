@@ -14,7 +14,7 @@ abstract: We study a generalized framework for structured sparsity. It extends t
   which improves over Lasso, Group Lasso and StructOMP. They also demonstrate the
   efficiency of the optimization algorithm and its scalability with the size of the
   problem.
-pdf: "./baldassarre12/baldassarre12.pdf"
+pdf: http://proceedings.pmlr.press/baldassarre12/baldassarre12.pdf
 layout: inproceedings
 id: baldassarre12
 month: 0
@@ -32,6 +32,16 @@ author:
   family: Argyriou
 - given: Massimiliano
   family: Pontil
-date: '2012-03-21 00:01:22'
+date: 2012-03-21
 publisher: PMLR
+container-title: Proceedings of the Fifteenth International Conference on Artificial
+  Intelligence and Statistics
+volume: '22'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 3
+  - 21
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

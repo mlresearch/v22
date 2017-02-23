@@ -19,7 +19,7 @@ abstract: Patient-specific algorithms to detect adverse clinical events during l
   vector sets to guide termination results in an active learning-based detector that
   can achieve similar performance to a patient-specific detector while requiring two
   orders of magnitude fewer labeled examples for training.
-pdf: "./balakrishnan12b/balakrishnan12b.pdf"
+pdf: http://proceedings.pmlr.press/balakrishnan12b/balakrishnan12b.pdf
 layout: inproceedings
 id: balakrishnan12b
 month: 0
@@ -33,6 +33,16 @@ author:
   family: Balakrishnan
 - given: Zeeshan
   family: Syed
-date: '2012-03-21 00:01:13'
+date: 2012-03-21
 publisher: PMLR
+container-title: Proceedings of the Fifteenth International Conference on Artificial
+  Intelligence and Statistics
+volume: '22'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 3
+  - 21
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

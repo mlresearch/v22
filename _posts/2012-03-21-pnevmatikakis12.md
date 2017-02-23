@@ -14,7 +14,7 @@ abstract: We present an algorithm for fast posterior inference in penalized high
   affecting the linear complexity of our algorithm. This class includes both Gaussian
   and nonsmooth sparse and group sparse priors for which we employ an interior point
   modification of our algorithm. We discuss applications in text modeling and neuroscience.
-pdf: "./pnevmatikakis12/pnevmatikakis12.pdf"
+pdf: http://proceedings.pmlr.press/pnevmatikakis12/pnevmatikakis12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/pnevmatikakis12/pnevmatikakis12Supple.pdf
 layout: inproceedings
 id: pnevmatikakis12
@@ -29,6 +29,16 @@ author:
   family: Pnevmatikakis
 - given: Liam
   family: Paninski
-date: '2012-03-21 00:14:55'
+date: 2012-03-21
 publisher: PMLR
+container-title: Proceedings of the Fifteenth International Conference on Artificial
+  Intelligence and Statistics
+volume: '22'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 3
+  - 21
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

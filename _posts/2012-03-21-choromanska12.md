@@ -13,9 +13,9 @@ abstract: Approximating the k-means clustering objective with an online learning
   is novel, and extends an evaluation framework proposed by Dasgupta as an analog
   to regret. Notably, our approximation bounds are with respect to the optimal k-means
   cost on the entire data stream seen so far, even though the algorithm is online.
-  Our algorithm's empirical performance tracks that of the best clustering algorithm
+  Our algorithm’s empirical performance tracks that of the best clustering algorithm
   in its expert set.
-pdf: "./choromanska12/choromanska12.pdf"
+pdf: http://proceedings.pmlr.press/choromanska12/choromanska12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/choromanska12/choromanska12Supple.pdf
 layout: inproceedings
 id: choromanska12
@@ -30,6 +30,16 @@ author:
   family: Choromanska
 - given: Claire
   family: Monteleoni
-date: '2012-03-21 00:03:47'
+date: 2012-03-21
 publisher: PMLR
+container-title: Proceedings of the Fifteenth International Conference on Artificial
+  Intelligence and Statistics
+volume: '22'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 3
+  - 21
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

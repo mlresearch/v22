@@ -10,8 +10,8 @@ abstract: Often, high dimensional data lie close to a low-dimensional submanifol
   We derive upper and lower bounds on the minimax risk for this problem. Our upper
   bounds are based on estimators which are constructed from a union of balls of appropriate
   radius around carefully selected sample points. In each case we establish complementary
-  lower bounds using Le Cam's lemma.
-pdf: "./balakrishnan12a/balakrishnan12a.pdf"
+  lower bounds using Le Cam’s lemma.
+pdf: http://proceedings.pmlr.press/balakrishnan12a/balakrishnan12a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/balakrishnan12a/balakrishnan12aSupple.pdf
 layout: inproceedings
 id: balakrishnan12a
@@ -32,6 +32,16 @@ author:
   family: Singh
 - given: Larry
   family: Wasserman
-date: '2012-03-21 00:01:04'
+date: 2012-03-21
 publisher: PMLR
+container-title: Proceedings of the Fifteenth International Conference on Artificial
+  Intelligence and Statistics
+volume: '22'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2012
+  - 3
+  - 21
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
