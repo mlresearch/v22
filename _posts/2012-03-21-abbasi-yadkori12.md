@@ -16,7 +16,7 @@ abstract: We introduce a novel technique, which we call  online-to-confidence-se
   our  online-to-confidence-set conversion allows one to derive  algorithms that can
   exploit if the reward is a function of a sparse   linear combination of the components
   of the chosen action.
-pdf: http://jmlr.org/proceedings/papers/v22/abbasi-yadkori12/abbasi-yadkori12.pdf
+pdf: http://proceedings.mlr.press/v22/abbasi-yadkori12/abbasi-yadkori12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/abbasi-yadkori12/abbasi-yadkori12Supple.pdf
 layout: inproceedings
 id: abbasi-yadkori12
@@ -32,7 +32,6 @@ author:
   family: Pal
 - given: Csaba
   family: Szepesvari
-reponame: v22
 date: 2012-03-21
 address: La Palma, Canary Islands
 publisher: PMLR
