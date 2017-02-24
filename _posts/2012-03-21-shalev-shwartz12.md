@@ -15,6 +15,7 @@ abstract: In many recent applications, data is plentiful. By now, we have a rath
 pdf: http://proceedings.mlr.press/v22/shalev-shwartz12/shalev-shwartz12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/shalev-shwartz12/shalev-shwartz12Supple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shalev-shwartz12
 month: 0
 firstpage: 1019

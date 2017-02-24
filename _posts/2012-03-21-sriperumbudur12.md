@@ -7,6 +7,7 @@ abstract: We propose a simple and efficient modification of the popular DBSCAN c
 pdf: http://proceedings.mlr.press/v22/sriperumbudur12/sriperumbudur12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/sriperumbudur12/sriperumbudur12Supple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: sriperumbudur12
 month: 0
 firstpage: 1090

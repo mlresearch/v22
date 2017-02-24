@@ -14,6 +14,7 @@ abstract: Often, high dimensional data lie close to a low-dimensional submanifol
 pdf: http://proceedings.mlr.press/v22/balakrishnan12a/balakrishnan12a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/balakrishnan12a/balakrishnan12aSupple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: balakrishnan12a
 month: 0
 firstpage: 64

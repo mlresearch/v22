@@ -15,6 +15,7 @@ abstract: We study the prevalent problem when a test distribution differs from t
   greedy procedure.
 pdf: http://proceedings.mlr.press/v22/salakhutdinov12/salakhutdinov12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: salakhutdinov12
 month: 0
 firstpage: 960

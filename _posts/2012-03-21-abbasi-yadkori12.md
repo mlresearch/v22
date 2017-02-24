@@ -19,6 +19,7 @@ abstract: We introduce a novel technique, which we call  online-to-confidence-se
 pdf: http://proceedings.mlr.press/v22/abbasi-yadkori12/abbasi-yadkori12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/abbasi-yadkori12/abbasi-yadkori12Supple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: abbasi-yadkori12
 month: 0
 firstpage: 1

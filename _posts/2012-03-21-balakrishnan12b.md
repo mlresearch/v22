@@ -21,6 +21,7 @@ abstract: Patient-specific algorithms to detect adverse clinical events during l
   orders of magnitude fewer labeled examples for training.
 pdf: http://proceedings.mlr.press/v22/balakrishnan12b/balakrishnan12b.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: balakrishnan12b
 month: 0
 firstpage: 73

@@ -18,6 +18,7 @@ abstract: Approximating the k-means clustering objective with an online learning
 pdf: http://proceedings.mlr.press/v22/choromanska12/choromanska12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/choromanska12/choromanska12Supple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: choromanska12
 month: 0
 firstpage: 227

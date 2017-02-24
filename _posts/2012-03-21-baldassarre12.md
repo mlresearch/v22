@@ -16,6 +16,7 @@ abstract: We study a generalized framework for structured sparsity. It extends t
   problem.
 pdf: http://proceedings.mlr.press/v22/baldassarre12/baldassarre12.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: baldassarre12
 month: 0
 firstpage: 82

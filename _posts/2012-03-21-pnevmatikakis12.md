@@ -17,6 +17,7 @@ abstract: We present an algorithm for fast posterior inference in penalized high
 pdf: http://proceedings.mlr.press/v22/pnevmatikakis12/pnevmatikakis12.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/pnevmatikakis12/pnevmatikakis12Supple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: pnevmatikakis12
 month: 0
 firstpage: 895
