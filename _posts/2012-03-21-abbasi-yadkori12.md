@@ -22,6 +22,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: abbasi-yadkori12
 month: 0
+tex_title: Online-to-Confidence-Set Conversions and Application to Sparse Stochastic
+  Bandits
 firstpage: 1
 lastpage: 9
 page: 1-9

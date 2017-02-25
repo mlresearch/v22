@@ -24,6 +24,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: balakrishnan12b
 month: 0
+tex_title: 'Scalable Personalization of Long-Term Physiological Monitoring: Active
+  Learning Methodologies for Epileptic Seizure Onset Detection'
 firstpage: 73
 lastpage: 81
 page: 73-81

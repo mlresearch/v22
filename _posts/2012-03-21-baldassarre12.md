@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: baldassarre12
 month: 0
+tex_title: A General Framework for Structured Sparsity via Proximal Optimization
 firstpage: 82
 lastpage: 90
 page: 82-90

@@ -10,6 +10,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sriperumbudur12
 month: 0
+tex_title: Consistency and Rates for Clustering with DBSCAN
 firstpage: 1090
 lastpage: 1098
 page: 1090-1098

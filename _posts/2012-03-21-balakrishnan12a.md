@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: balakrishnan12a
 month: 0
+tex_title: Minimax rates for homology inference
 firstpage: 64
 lastpage: 72
 page: 64-72

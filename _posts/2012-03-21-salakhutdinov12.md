@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: salakhutdinov12
 month: 0
+tex_title: 'Domain Adaptation: A Small Sample Statistical Approach'
 firstpage: 960
 lastpage: 968
 page: 960-968

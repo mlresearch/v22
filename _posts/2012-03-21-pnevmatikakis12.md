@@ -20,6 +20,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: pnevmatikakis12
 month: 0
+tex_title: Fast interior-point inference in high-dimensional sparse, penalized state-space
+  models
 firstpage: 895
 lastpage: 904
 page: 895-904

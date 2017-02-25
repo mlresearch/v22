@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shalev-shwartz12
 month: 0
+tex_title: Using More Data to Speed-up Training Time
 firstpage: 1019
 lastpage: 1027
 page: 1019-1027
