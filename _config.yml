@@ -24,11 +24,19 @@ editor:
   family: Lawrence
 - given: Mark
   family: Girolami
-title: Proceedings of the Fifteenth International Conference on Artificial Intelligence
-  and Statistics
-email: ''
-description: Proceedings of the Fifteenth International Conference on Artificial Intelligence
-  and Statistics, La Palma, Canary Islands
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics
+    Held in La Palma, Canary Islands on 21-23 April 2012
+
+  Published as Volume 22 by the Proceedings of Machine Learning Research on 21 March 2012.
+
+  Volume Edited by:
+    Neil D. Lawrence
+    Mark Girolami
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v22"
 twitter_username: mlresearch
@@ -38,6 +46,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v22
+email: ''
 conference:
   name: Artificial Intelligence and Statistics
   url: 
