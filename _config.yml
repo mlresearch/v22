@@ -49,6 +49,8 @@ github:
   edit: true
   repository: v22
 bibtex_copy: true
+endnote_copy: true
+apa_copy: true
 email: ''
 conference:
   name: Artificial Intelligence and Statistics
