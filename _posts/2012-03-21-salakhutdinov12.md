@@ -22,7 +22,8 @@ tex_title: 'Domain Adaptation: A Small Sample Statistical Approach'
 firstpage: 960
 lastpage: 968
 page: 960-968
-sections: 
+order: 960
+cycles: false
 author:
 - given: Ruslan
   family: Salakhutdinov

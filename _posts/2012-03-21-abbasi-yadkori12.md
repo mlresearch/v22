@@ -17,7 +17,7 @@ abstract: We introduce a novel technique, which we call  online-to-confidence-se
   exploit if the reward is a function of a sparse   linear combination of the components
   of the chosen action.
 pdf: http://proceedings.mlr.press/v22/abbasi-yadkori12/abbasi-yadkori12.pdf
-supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/abbasi-yadkori12/abbasi-yadkori12Supple.pdf
+supplementary: http://proceedings.mlr.press/v22/abbasi-yadkori12///jmlr.org/proceedings/papers/v22/abbasi-yadkori12/abbasi-yadkori12Supple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: abbasi-yadkori12
@@ -27,7 +27,8 @@ tex_title: Online-to-Confidence-Set Conversions and Application to Sparse Stocha
 firstpage: 1
 lastpage: 9
 page: 1-9
-sections: 
+order: 1
+cycles: false
 author:
 - given: Yasin
   family: Abbasi-Yadkori

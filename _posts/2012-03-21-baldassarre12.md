@@ -23,7 +23,8 @@ tex_title: A General Framework for Structured Sparsity via Proximal Optimization
 firstpage: 82
 lastpage: 90
 page: 82-90
-sections: 
+order: 82
+cycles: false
 author:
 - given: Luca
   family: Baldassarre

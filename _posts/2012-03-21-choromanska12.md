@@ -16,7 +16,7 @@ abstract: Approximating the k-means clustering objective with an online learning
   Our algorithm’s empirical performance tracks that of the best clustering algorithm
   in its expert set.
 pdf: http://proceedings.mlr.press/v22/choromanska12/choromanska12.pdf
-supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/choromanska12/choromanska12Supple.pdf
+supplementary: http://proceedings.mlr.press/v22/choromanska12///jmlr.org/proceedings/papers/v22/choromanska12/choromanska12Supple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: choromanska12
@@ -25,7 +25,8 @@ tex_title: Online Clustering with Experts
 firstpage: 227
 lastpage: 235
 page: 227-235
-sections: 
+order: 227
+cycles: false
 author:
 - given: Anna
   family: Choromanska

@@ -29,7 +29,8 @@ tex_title: 'Scalable Personalization of Long-Term Physiological Monitoring: Acti
 firstpage: 73
 lastpage: 81
 page: 73-81
-sections: 
+order: 73
+cycles: false
 author:
 - given: Guha
   family: Balakrishnan

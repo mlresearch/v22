@@ -15,7 +15,7 @@ abstract: We present an algorithm for fast posterior inference in penalized high
   and nonsmooth sparse and group sparse priors for which we employ an interior point
   modification of our algorithm. We discuss applications in text modeling and neuroscience.
 pdf: http://proceedings.mlr.press/v22/pnevmatikakis12/pnevmatikakis12.pdf
-supplementary: Supplementary:http://jmlr.org/proceedings/papers/v22/pnevmatikakis12/pnevmatikakis12Supple.pdf
+supplementary: http://proceedings.mlr.press/v22/pnevmatikakis12///jmlr.org/proceedings/papers/v22/pnevmatikakis12/pnevmatikakis12Supple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: pnevmatikakis12
@@ -25,7 +25,8 @@ tex_title: Fast interior-point inference in high-dimensional sparse, penalized s
 firstpage: 895
 lastpage: 904
 page: 895-904
-sections: 
+order: 895
+cycles: false
 author:
 - given: Eftychios
   family: Pnevmatikakis
