@@ -18,15 +18,13 @@ sections:
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: LawrenceAISTATS2012
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Neil D.
   family: Lawrence
 - given: Mark
   family: Girolami
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics
     Held in La Palma, Canary Islands on 21-23 April 2012
@@ -42,7 +40,7 @@ description: |
 date_str: 21--23 Apr
 url: http://proceedings.mlr.press
 baseurl: "/v22"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -54,6 +52,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -69,3 +68,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v22.bib
+---
