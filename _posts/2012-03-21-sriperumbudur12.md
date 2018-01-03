@@ -5,7 +5,7 @@ abstract: We propose a simple and efficient modification of the popular DBSCAN c
   level in an automated, data-driven way. We establish both consistency and optimal
   learning rates for this modification.
 pdf: http://proceedings.mlr.press/v22/sriperumbudur12/sriperumbudur12.pdf
-supplementary: http://proceedings.mlr.press/v22/sriperumbudur12///jmlr.org/proceedings/papers/v22/sriperumbudur12/sriperumbudur12Supple.pdf
+supplementary: http://proceedings.mlr.press/v22/sriperumbudur12/sriperumbudur12Supple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sriperumbudur12
