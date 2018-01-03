@@ -13,7 +13,7 @@ abstract: In many recent applications, data is plentiful. By now, we have a rath
   We spell out several interesting candidates of natural learning problems for which
   we conjecture that there is a tradeoff between computational and sample complexity.
 pdf: http://proceedings.mlr.press/v22/shalev-shwartz12/shalev-shwartz12.pdf
-supplementary: http://proceedings.mlr.press/v22/shalev-shwartz12///jmlr.org/proceedings/papers/v22/shalev-shwartz12/shalev-shwartz12Supple.pdf
+supplementary: http://proceedings.mlr.press/v22/shalev-shwartz12/shalev-shwartz12Supple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shalev-shwartz12
