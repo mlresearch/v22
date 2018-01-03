@@ -12,7 +12,7 @@ abstract: Often, high dimensional data lie close to a low-dimensional submanifol
   radius around carefully selected sample points. In each case we establish complementary
   lower bounds using Le Cam’s lemma.
 pdf: http://proceedings.mlr.press/v22/balakrishnan12a/balakrishnan12a.pdf
-supplementary: http://proceedings.mlr.press/v22/balakrishnan12a///jmlr.org/proceedings/papers/v22/balakrishnan12a/balakrishnan12aSupple.pdf
+supplementary: http://proceedings.mlr.press/v22/balakrishnan12a/balakrishnan12aSupple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: balakrishnan12a
